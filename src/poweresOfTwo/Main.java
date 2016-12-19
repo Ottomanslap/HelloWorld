@@ -1,3 +1,5 @@
+package poweresOfTwo;
+
 import java.math.BigInteger;
 
 public class Main {
