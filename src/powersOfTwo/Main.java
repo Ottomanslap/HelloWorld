@@ -1,4 +1,4 @@
-package poweresOfTwo;
+package powersOfTwo;
 
 import java.math.BigInteger;
 

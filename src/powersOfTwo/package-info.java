@@ -5,4 +5,4 @@
  * @author baldr
  *
  */
-package poweresOfTwo;
+package powersOfTwo;

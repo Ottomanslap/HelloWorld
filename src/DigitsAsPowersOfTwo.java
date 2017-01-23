@@ -1,6 +1,6 @@
 import java.math.BigInteger;
 
-public class Main {
+public class DigitsAsPowersOfTwo {
 
 	public static void main(String[] args){
 
