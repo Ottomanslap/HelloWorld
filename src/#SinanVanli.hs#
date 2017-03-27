@@ -1,0 +1,2 @@
+cg :: Int -> Int
+cg x = [ a | a <- ]
